@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Keti, based in Sofia, Bulgaria!
+
+I speak fluent English and Bulgarian, also a beginner level in German and Russian.
