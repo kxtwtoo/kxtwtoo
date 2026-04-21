@@ -1,4 +1,34 @@
-## Hi there 👋
+## KETI
+**`Singer|Songwriter|Creator`**
+
+## Who am I?
+ ```python
+ class WhoAmI:
+ 	user = 'KETI'
+		current_work = 'Writing code'
+		hobbies = [
+				'Music',
+				'Psychology',
+				'Self-improvement',
+				'Photography',
+        'Coding',
+        'Public Speaking',
+        'Travel'
+			]
+
+	def getCountriesBeenTo():
+    return 20
+
+	def getCity():
+		return Sofia_Bulgaria()
+	
+	def Ambitions():
+	  LearnRussian()
+		CreateSLOTapp()
+		FinishingMyBachelorsDegree()
+		# Assume 10 more awesome ambitions here  ;)
+	
+ ```
 
 <!--
 **kxtwtoo/kxtwtoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +45,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Keti, based in Sofia, Bulgaria!
-
-I speak fluent English and Bulgarian, also a beginner level in German and Russian.
